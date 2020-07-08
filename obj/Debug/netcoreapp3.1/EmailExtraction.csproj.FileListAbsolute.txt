@@ -1,0 +1,12 @@
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.csprojAssemblyReference.cache
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.AssemblyInfoInputs.cache
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.AssemblyInfo.cs
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.csproj.CoreCompileInputs.cache
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.deps.json
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.runtimeconfig.json
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.runtimeconfig.dev.json
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.dll
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/bin/Debug/netcoreapp3.1/EmailExtraction.pdb
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.dll
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.pdb
+/Users/louise.gilliganzoopla.co.uk/Zoopla Training/Regex/EmailExtraction/obj/Debug/netcoreapp3.1/EmailExtraction.genruntimeconfig.cache
